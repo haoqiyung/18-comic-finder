@@ -244,8 +244,4 @@ http://localhost:7788/finder/download?homePage=https://18comic.vip/photo/211115
 - [x] 支持下载整本只有一章的无章节漫画.
 - [x] 通过指定外部配置文件来覆盖内部配置文件, 对于直接下载jar包的用户不需要先解压修改配置文件后再压缩回去.
 
-## 鸣谢列表
 
-- [@lizongcong](https://github.com/lizongcong) : 提供了只有更新json文件才会触发action的建议.
-- [@calject](https://github.com/calject) : 提供了新版禁漫天堂前端切割算法.
-- [@Yiyi-philosophy](https://github.com/Yiyi-philosophy) : 提供了直接将.webp转换为.jpg的建议.
